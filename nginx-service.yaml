@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: Service
 metadata:
-  name: nginx-service
+  name: helix-service
   namespace: helix
 spec:
   type: NodePort
